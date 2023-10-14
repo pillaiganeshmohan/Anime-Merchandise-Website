@@ -18,14 +18,14 @@ Run the XAMPP Control Panel and enter the name of the project.
 Enter this in the web browser to run the project  
 http://localhost/animemerchandise/AnimeMerchandise/shopping/
 
-**Note:** I have a created a sample username and password.  
+**Note:** I have created a sample username and password.  
 User     : ganesh  
 Password : Lekhamohan@1210
 
 To access the admin panel just enter this into the web browser  
 http://localhost/animemerchandise/AnimeMerchandise/shopping/admin/
 
-**Note:** I have a created a sample admin username and password.  
+**Note:** I have also created a sample admin username and password.  
 User     : ganesh  
 Password : 1210
 

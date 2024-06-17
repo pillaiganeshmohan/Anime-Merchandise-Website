@@ -63,3 +63,9 @@ Password : 1210
 ![14](https://github.com/pillaiganeshmohan/Anime-Merchandise-Website/assets/68379838/6c950b8a-3277-4fe1-a91b-1066b9ef1a5f)
 
 ![15](https://github.com/pillaiganeshmohan/Anime-Merchandise-Website/assets/68379838/93a2724e-433d-4761-b8d8-87243649ac4f)
+
+## Contributing
+If you would like to contribute to this project, please fork the repository and submit a pull request.
+
+## License
+This project is licensed under the **Apache-2.0 License**. See the [LICENSE](./LICENSE) file for details.
